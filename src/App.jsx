@@ -425,7 +425,7 @@ export default function App() {
     <div style={{maxWidth:430,margin:"0 auto",height:"100vh",position:"relative",
       overflow:"hidden",background:T.cream,fontFamily:font.sans}}>
       <style>{`
-        @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500;1,600&family=Dancing+Script:wght@600;700&family=DM+Sans:wght@300;400;500;600&display=swap');
+    
         *{box-sizing:border-box;margin:0;padding:0;}
         input::placeholder{color:#C0A0B0;}
         button:active{transform:scale(0.97);}
